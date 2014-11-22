@@ -12,3 +12,6 @@ EC2 [Link](http://54.201.105.208:1992)
 ## Release History
 
 * 2013-12-05 `v0.0.1` Initial release
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LeoAJ/dailyfinance-monitor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
